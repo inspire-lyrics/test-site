@@ -1,20 +1,29 @@
 h1{
- text-align: center;
- font-size:200px;
+text-align: center;
+display: inline-block;
+margin: auto;
 }
+ .box{
+    margin: 10px auto;
+ }
+
+.home {
+  text-align: center;
+}
+#down{
+margin-top: 100px;
+ padding-top: 50px;
+ text-align:right;
+}
+.me{
+  text-align:center;
+   }
 .logo{
-  width: 500px;
-  length:450px;
-}
-.arrow{
-  width:100px;
-  height:50px;
+  width: 400px;
+
 }
 form{
   text-align: right;
-}
-.box {
-  margin: auto;
 }
 .small-image {
   width: 100px;
@@ -83,3 +92,6 @@ h2 {
     padding: 50px;
     display: none;
   }
+.container {
+  height: 800px;
+}
