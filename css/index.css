@@ -1,0 +1,82 @@
+h1{
+ text-align: center;
+ font-size:200px;
+}
+.logo{
+  width: 500px;
+  length:450px;
+}
+.arrow{
+  width:100px;
+  height:50px;
+}
+form{
+  text-align: right;
+}
+.small-image {
+  width: 100px;
+}
+.category {
+  background: gray;
+}
+h2 {
+  position: absolute;
+  top: 200px;
+  left: 0;
+  width: 100%;
+}
+.image {
+  position: relative;
+  text-align: center;
+}
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 70%;
+    margin: auto;
+}
+.pop{
+  position: relative;
+  text-align: center;
+  color:#AFEEEE;
+}
+.rock{
+  position: relative;
+  text-align: center;
+  color:#E3E3E3;
+}
+.bachata{
+  position: relative;
+  text-align: center;
+  color:#ffffff;
+}
+.hip{
+  position: relative;
+  text-align: center;
+  color:#AFEEEE;
+}
+.rnb{
+  position: relative;
+  text-align: center;
+  color:gray;
+}
+.salsa{
+  position: relative;
+  text-align: center;
+  color:red;
+}
+.rap{
+  position: relative;
+  text-align: center;
+  color:yellow;
+}
+#panel, #flip {
+    padding: 5px;
+    text-align: center;
+    background-color: #e5eecc;
+    border: solid 1px #c3c3c3;
+}
+
+#panel {
+    padding: 50px;
+    display: none;
+  }
